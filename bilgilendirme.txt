@@ -1,0 +1,13 @@
+Programın Doğru Şifresi : 1234
+3 kere hatalı deneme yaptığınızda uyarı ekranı verip programı kapatacaktır.
+Uyarı ekranını da görmeniz için 3 kere hatalı girebilirsiniz.
+
+Grafik ekranların tasarımlarını ben çizdim hocam başka bir yerden yararlanmadım sadece konu çalışırken öğrenme aşamasında komutları öğrenirken başka kaynaklara yapay zekalara baktım. ama grafik ekranları o arayüzleri tamamen kod almadan ben yazdım.
+onun dışında normal c kodlarında zaman zaman yardım almamı gerektiren yerler oldu. hata ayıklama gibi şeylerde mecburen yapay zekaları kullanmak durumunda kaldım.
+grafik ekranlar bana ait c kodlarında ise düzeltmelerde mecburen kullandım.
+projeye başlamadan önce canva üzerinde bir tasarım yapmıştım proje_tasarım.pdf diye proje rar'ına yükledim.
+daha hiç kod yazmadan tasarladığım arayüze benzetebildiğim kadar benzetmeye çalıştım.
+sifre girişi, para gönder ve son işlemler kısımlarında siyah ekrana atıyor oraları tamamlayamadım.
+elimden geldiğince yapmaya çalıştım.
+
+Saygılarımla.
